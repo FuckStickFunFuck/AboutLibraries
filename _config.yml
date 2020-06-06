@@ -1,0 +1,8 @@
+title: AboutLibraries
+description: AboutLibraries is a library to offer some information of libraries.
+google_analytics: UA-56332427-1
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
